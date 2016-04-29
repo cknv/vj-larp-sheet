@@ -16,7 +16,7 @@
    id="svg3902"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="sheet.svg">
   <defs
      id="defs3">
     <filter
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="500.37384"
-     inkscape:cy="327.73696"
+     inkscape:cx="483.37384"
+     inkscape:cy="827.73696"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -453,7 +453,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1370,7 +1370,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.90222216px;line-height:125%;font-family:Cheboygan;-inkscape-font-specification:'Cheboygan Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90222216px;line-height:125%;font-family:Cheboygan;-inkscape-font-specification:Cheboygan;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
        x="132"
        y="69.000008"
        id="text3818-7-2-8-2-0"
